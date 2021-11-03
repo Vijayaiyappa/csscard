@@ -1,0 +1,42 @@
+body {
+    
+}
+ .wrapper{
+      margin-left:auto;
+      margin-right:auto;
+      display:block;
+      box-shadow: 0 1px 4px 0 rgba(0,0,50, 0.3);
+      background-image: linear-gradient(337deg, #000000 60%, #8c0b8c 10%);
+      padding:3px;
+      width:90%;
+      margin-top:5%;
+      border-radius:20px;
+  }
+  .table-box{
+      
+      margin:50px auto;
+  }
+ 
+ img{
+    width:80%;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    border-radius:90%;
+    box-shadow:-0px -0px  0px  3px white;
+   
+    border-color:black;
+ }
+ .justice
+ {
+  text-align:center;
+   color:white;
+  font-size:40px; 
+  
+ }
+ 
+ .quote{
+     color:white;
+     padding:15px;
+     font-size:18px;
+ }
